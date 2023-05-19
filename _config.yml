@@ -1,0 +1,13 @@
+theme:
+  name: jekyll-theme-basically-basic
+  defaults:
+    - scope:
+        path: ""
+        type: "pages"
+      values:
+        layout: single
+        author_profile: false
+        read_time: true
+        comments: true
+        share: true
+        related: true
