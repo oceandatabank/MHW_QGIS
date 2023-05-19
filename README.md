@@ -12,7 +12,7 @@
 2. 若是第一次操作，尚未加入 ODB WMS server，於對話框按【New】，跳出子對話框，可在此填入 ODB WMS server URL
 
     - 【Name】：任意為此 Connection 取名，如 ODB_marineheatwave
-    - 【URL】：填入 <b>https://ecodata.odb.ntu.edu.tw/geoserver/marineheatwave/wms</b>
+    - 【URL】：填入 https://ecodata.odb.ntu.edu.tw/geoserver/marineheatwave/wms
     - 填完後按【確定】離開子對話框，回到上一層對話框
 
 ![fig01-02: ODB WMS server connection](fig/mhw_wms_learning01-02_new_connection.png) 
