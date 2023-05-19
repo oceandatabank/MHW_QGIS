@@ -1,7 +1,7 @@
 title: Ocean Data Bank
 author:
-  name: Ting-Chen Yeh, Chi-Yu Weng
-  email: yehtc@ntu.edu.tw, cyweng24@ntu.edu.tw
+  #name: Ting-Chen Yeh, Chi-Yu Weng
+  #email: yehtc@ntu.edu.tw, cyweng24@ntu.edu.tw
 
 
 # The `>` after `description:` means to ignore line-breaks until next key.
