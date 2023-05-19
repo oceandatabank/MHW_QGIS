@@ -43,5 +43,5 @@
 
 **若有任何問題或建議，歡迎聯絡我們**
 
-   * [ODB 官方網站 - 關於我們](https://www.odb.ntu.edu.tw/about-us): 葉庭禎 (yehtc@ntu.edu.tw) or 翁其羽 (cyweng24@ntu.edu.tw)
+   * [ODB 官方網站 - 關於我們](https://www.odb.ntu.edu.tw/about-us): 葉庭禎 (yehtc@ntu.edu.tw)、翁其羽 (cyweng24@ntu.edu.tw)
  
