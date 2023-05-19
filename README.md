@@ -8,6 +8,7 @@
 1. 功能表單【Layer】->【Add Layer】->【Add WMS/WMTS Layer】，跳出對話框
 
     - ![fig01-01: Options to add WMS/WMTS layer](fig/mhw_wms_learning01-01_addlayer.png) 
+    
 
 2. 若是第一次操作，尚未加入 ODB WMS server，於對話框按【New】，跳出子對話框，可在此填入 ODB WMS server URL
 
