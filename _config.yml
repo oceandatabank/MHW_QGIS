@@ -1,7 +1,5 @@
 title: Ocean Data Bank
-author:
-  name: TingChen Yeh and Chi-Yu Weng
-  email: yehtc@ntu.edu.tw or cyweng24@ntu.edu.tw
+
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
