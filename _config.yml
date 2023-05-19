@@ -13,9 +13,15 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-titles-from-headings
+  
   
 
 # Theme-specific settings
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: true 
 
 minima:
   # Minima date format.
